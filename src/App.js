@@ -1,8 +1,11 @@
 import './App.css';
+import MainPage from './pages/MainPage/MainPage';
 
 const App = () => {
   return (
-    <h1>Hola Mundo</h1>
+    <>
+    <MainPage />
+    </>
   );
 }
 
